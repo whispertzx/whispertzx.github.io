@@ -1,0 +1,33 @@
+/* @font-face {
+    font-family:'arzhu';
+    src:url('https://cdn.jsdelivr.net/gh/zjwo/CDN@master/font/arzhu.ttf');
+    font-display:swap
+} */
+/* h1#site-title {
+    font-family:arzhu!important
+}
+span#subtitle {
+    font-family:arzhu!important
+}
+a#site-name {
+    font-family:arzhu!important
+} */
+#recent-posts>.recent-post-item,.layout_page>div:first-child:not(.recent-posts),.layout_post>#page,.layout_post>#post,.read-mode .layout_post>#post {
+    background: var(--light_bg_color)!important
+}
+
+#aside-content .card-widget {
+    background: var(--light_bg_color)!important
+}
+
+#body-wrap {
+    /* 图片可下载上传到自己的图床也可以删掉*/
+    background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+      -moz-linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+    background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+      -webkit-linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+    background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+      -ms-linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+    background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+      linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+  }
