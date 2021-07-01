@@ -2444,9 +2444,6 @@ blockquote footer cite:before {
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap .fa-angle-right {
   margin: 0 0.2rem;
 }
-#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap time {
-  display: none;
-}
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap a {
   color: #858585;
 }
@@ -2824,6 +2821,9 @@ blockquote footer cite:before {
   -o-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
+}
+#aside-content .card-categories .card-category-list > .parent > .child {
+  display: none;
 }
 #aside-content .card-webinfo .webinfo .webinfo-item {
   display: -webkit-box;
