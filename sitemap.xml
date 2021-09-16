@@ -186,13 +186,6 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2021-09-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://whispertzx.github.io/tags/%E7%90%86%E8%AE%BA/</loc>
     <lastmod>2021-09-16</lastmod>
     <changefreq>daily</changefreq>
@@ -201,6 +194,13 @@
   
   <url>
     <loc>https://whispertzx.github.io/tags/Java/</loc>
+    <lastmod>2021-09-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://whispertzx.github.io/tags/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2021-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -258,7 +258,7 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/Java/</loc>
     <lastmod>2021-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/Java/</loc>
+    <loc>https://whispertzx.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2021-09-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
