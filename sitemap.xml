@@ -165,14 +165,14 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/tags/%E8%BF%BD%E7%95%AA/</loc>
+    <loc>https://whispertzx.github.io/tags/%E6%AF%95%E4%B8%9A/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/tags/%E6%AF%95%E4%B8%9A/</loc>
+    <loc>https://whispertzx.github.io/tags/%E8%BF%BD%E7%95%AA/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -221,14 +221,14 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/tags/%E7%BB%84%E4%BC%9A/</loc>
+    <loc>https://whispertzx.github.io/tags/CNN/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/tags/CNN/</loc>
+    <loc>https://whispertzx.github.io/tags/%E7%BB%84%E4%BC%9A/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -251,13 +251,6 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/</loc>
-    <lastmod>2021-09-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
@@ -272,13 +265,6 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2021-09-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://whispertzx.github.io/categories/%E8%BF%BD%E7%95%AA%E8%BF%BD%E5%89%A7/%E7%94%B5%E8%A7%86%E5%89%A7/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
@@ -286,7 +272,21 @@
   </url>
   
   <url>
+    <loc>https://whispertzx.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/Java/</loc>
+    <lastmod>2021-09-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -307,14 +307,14 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E8%BF%BD%E7%95%AA%E8%BF%BD%E5%89%A7/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://whispertzx.github.io/categories/%E8%BF%BD%E7%95%AA%E8%BF%BD%E5%89%A7/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -328,14 +328,14 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/%E6%AF%8F%E5%91%A8%E7%BB%84%E4%BC%9A/</loc>
+    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/%E6%AF%8F%E5%91%A8%E7%BB%84%E4%BC%9A/</loc>
     <lastmod>2021-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
