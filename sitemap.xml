@@ -249,14 +249,14 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/tags/%E8%A7%86%E9%A2%91/</loc>
+    <loc>https://whispertzx.github.io/tags/%E7%BB%84%E4%BC%9A/</loc>
     <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/tags/%E7%BB%84%E4%BC%9A/</loc>
+    <loc>https://whispertzx.github.io/tags/%E8%A7%86%E9%A2%91/</loc>
     <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -328,6 +328,13 @@
   </url>
   
   <url>
+    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2021-10-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
@@ -336,13 +343,6 @@
   
   <url>
     <loc>https://whispertzx.github.io/categories/%E8%BF%BD%E7%95%AA%E8%BF%BD%E5%89%A7/%E6%97%A5%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-10-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-10-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
