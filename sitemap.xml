@@ -344,6 +344,13 @@
 
   
   <url>
+    <loc>https://whispertzx.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://whispertzx.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -352,13 +359,6 @@
   
   <url>
     <loc>https://whispertzx.github.io/tags/%E8%BF%BD%E5%89%A7/</loc>
-    <lastmod>2022-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://whispertzx.github.io/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -444,6 +444,13 @@
 
   
   <url>
+    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-04-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://whispertzx.github.io/categories/%E8%BF%BD%E7%95%AA%E8%BF%BD%E5%89%A7/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -451,7 +458,7 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -473,13 +480,6 @@
   
   <url>
     <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/</loc>
-    <lastmod>2022-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
