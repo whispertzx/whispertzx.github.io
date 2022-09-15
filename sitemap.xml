@@ -381,6 +381,13 @@
   </url>
   
   <url>
+    <loc>https://whispertzx.github.io/tags/%E8%BF%BD%E7%95%AA/</loc>
+    <lastmod>2022-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://whispertzx.github.io/tags/%E6%97%85%E6%B8%B8/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -389,13 +396,6 @@
   
   <url>
     <loc>https://whispertzx.github.io/tags/%E7%BE%8E%E9%A3%9F/</loc>
-    <lastmod>2022-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://whispertzx.github.io/tags/%E8%BF%BD%E7%95%AA/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -467,14 +467,14 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://whispertzx.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -495,6 +495,13 @@
   </url>
   
   <url>
+    <loc>https://whispertzx.github.io/categories/%E8%BF%BD%E7%95%AA%E8%BF%BD%E5%89%A7/%E5%8A%A8%E6%BC%AB/</loc>
+    <lastmod>2022-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://whispertzx.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -503,13 +510,6 @@
   
   <url>
     <loc>https://whispertzx.github.io/categories/%E5%A4%A7%E5%AD%A6%E5%AD%A6%E4%B9%A0/Java/</loc>
-    <lastmod>2022-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://whispertzx.github.io/categories/%E8%BF%BD%E7%95%AA%E8%BF%BD%E5%89%A7/%E5%8A%A8%E6%BC%AB/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -551,14 +551,14 @@
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/%E8%AF%BE%E7%A8%8B/</loc>
+    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/%E6%AF%8F%E5%91%A8%E7%BB%84%E4%BC%9A/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/%E6%AF%8F%E5%91%A8%E7%BB%84%E4%BC%9A/</loc>
+    <loc>https://whispertzx.github.io/categories/%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E4%B9%A0/%E8%AF%BE%E7%A8%8B/</loc>
     <lastmod>2022-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
